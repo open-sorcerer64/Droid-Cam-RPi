@@ -18,6 +18,7 @@ Installation Steps:
 To manually install DroidCam:
  
 ```
+ sudo apt install cmake
   git clone https://github.com/open-sorcerer64/Droid-Cam-RPi.git
   cd Droid-Cam-RPi
   sudo bash install.sh
