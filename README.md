@@ -14,7 +14,7 @@ Installation Steps:
 
 
 <details>
-<summary><b>To install manually</b> if you prefer to see what happens under the hood</summary>
+<summary><b>To install manually</b> </summary>
 To manually install DroidCam:
  
 ```
