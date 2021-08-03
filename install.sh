@@ -1,4 +1,4 @@
-tar -xf /home/pi/droidcam-raspberrypi-auto-install/libjpeg-turbo-2.1.0.tar.gz 
+tar -xf /home/pi/Droid-Cam-RPi/libjpeg-turbo-2.1.0.tar.gz 
 sudo cp -r libjpeg-turbo-2.1.0 /tmp 
 git clone https://github.com/dev47apps/droidcam/ 
 cd /tmp 
