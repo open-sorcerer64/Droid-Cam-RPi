@@ -25,3 +25,5 @@ rm -f /etc/modprobe.d/droidcam.conf || true
 rm -f /etc/modules-load.d/droidcam.conf || true
 rm -f /opt/droidcam*
 echo "Done"
+
+#Thanks-to-oxmc
