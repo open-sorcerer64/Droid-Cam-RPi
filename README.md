@@ -18,5 +18,9 @@ Installation Steps:
 To manually install DroidCam:
  
 ```
- OUTDATED VERSION TO BE UPDATED SOON
+sudo apt install cmake raspberrypi-kernel-headers libplist-dev libavutil-dev libswscale-dev libswscale-dev libspeex-dev libusbmuxd-dev libasound2-dev libappindicator3-dev make gcc pkg-config
+git clone https://github.com/open-sorcerer64/Droid-Cam-RPi.git
+cd Droid-Cam-RPi
+sudo dpkg -i libjpeg-turbo_2.1.3_armhf.deb
+sudo bash install.sh
 ```
