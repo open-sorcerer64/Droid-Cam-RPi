@@ -19,6 +19,7 @@ cd Droid-Cam-RPi
 sudo dpkg -i libjpeg-turbo_2.1.3_armhf.deb
 sudo bash install.sh
 ```
+</details>
 
 
 
