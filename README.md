@@ -1,7 +1,10 @@
 # Droid-Cam-RPi
 
 
-DroidCam turns your Android device into a webcam. The app works with a PC client that connects the computer with your phone. This version is made for Raspberry Pi, specifically. Tested on Raspberry Pi OS 32bit only. Testers are welcome.
+> DroidCam turns your Android device into a webcam. The app works with a PC client that connects the computer with your phone. 
+
+
+This script makes installing DroidCam easier on T he RaspberryPi
 
 
 Installation Steps:
